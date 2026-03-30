@@ -1,4 +1,11 @@
-import streamlit as st
+
+
+# Title
+st.title("📡 Smart Signal Analyzer")
+
+st.write("Analyze signals in Time and Frequency Domain 
+         
+
 import numpy as np
 import matplotlib.pyplot as plt
 
