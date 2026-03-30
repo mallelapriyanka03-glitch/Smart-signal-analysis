@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -110,3 +110,5 @@ elif section == "Conclusion":
 
     This project demonstrates real-world signal processing applications.
     """)
+           
+                
